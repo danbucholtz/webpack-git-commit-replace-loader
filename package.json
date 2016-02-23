@@ -4,9 +4,9 @@
   "description": "Replace a constant with the git commit",
   "main": "src/index.js",
   "author": "Dan Bucholtz",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "git-rev": "^0.2.1",
     "loader-utils": "^0.2.12"
   }
 }
