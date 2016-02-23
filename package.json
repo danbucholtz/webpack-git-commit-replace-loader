@@ -1,0 +1,12 @@
+{
+  "name": "webpack-git-commit-replace-loader",
+  "version": "1.0.0",
+  "description": "Replace a constant with the git commit",
+  "main": "src/index.js",
+  "author": "Dan Bucholtz",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.12"
+  }
+}
